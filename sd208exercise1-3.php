@@ -12,6 +12,7 @@ $string = "Knock Knock whos laban there laban";
 
 $string_array = explode(" ",$string);
 
+
 foreach($string_array as $value){
 
     if(isset($str_count[$value])){
@@ -25,5 +26,8 @@ foreach($str_count as $key => $value){
     echo $key."=> ".$value."<br>";
 }
     ?>
+
+sdkhfklshdklfhklsdhlfhl/kh
+
 </body>
 </html>

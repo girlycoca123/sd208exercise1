@@ -27,7 +27,6 @@ foreach($str_count as $key => $value){
 }
     ?>
 
-sdkhfklshdklfhklsdhlfhl/kh
 
 </body>
 </html>
